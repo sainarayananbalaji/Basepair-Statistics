@@ -31,8 +31,5 @@ def GCATCounter(filepath):
         print(f"N Counts: {nCount}")
         print(f"Shannon Entropy: {entropy:.4f}")
         print(f"GC Skew: {gc_skew:.4f}")
-        print()
-
-
 
 GCATCounter(f)
