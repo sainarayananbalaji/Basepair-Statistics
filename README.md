@@ -8,5 +8,5 @@
 
 
 ## PREREQUISITES:
-Biopython
-this code runs on most computers if this code does not run on your computer please get a new computer.
+* Biopython
+* this code runs on most computers if this code does not run on your computer please get a new computer.
