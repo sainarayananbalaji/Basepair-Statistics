@@ -2,7 +2,7 @@ from Bio import SeqIO
 from Bio.SeqUtils import gc_fraction
 import math
 
-f='/Users/sainarayananbalaji/Documents/COLLEGE/CEMB/python interp/lambda_virus.fasta'
+f=''#INSERT FILE PATH HERE
 
 def GCATCounter(filepath):
 
